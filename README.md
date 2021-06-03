@@ -1,0 +1,2 @@
+# fairygui_plugin_gradient_text
+fairygui 插件设置渐变色
